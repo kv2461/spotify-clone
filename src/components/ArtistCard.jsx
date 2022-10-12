@@ -1,5 +1,9 @@
-const ArtistCard = () => {
-  <div>ArtistCard</div>;
-};
+import React from 'react'
 
-export default ArtistCard;
+const ArtistCard = () => {
+  return (
+    <div>ArtistCard</div>
+  )
+}
+
+export default ArtistCard
